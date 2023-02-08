@@ -1,1 +1,1 @@
-# Zalando-data
+# Image Classification with Fashion - MNIST data (Zalando.de)
